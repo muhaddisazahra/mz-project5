@@ -1,0 +1,77 @@
+
+[
+  {
+    "intent": "fee",
+    "keywords": [
+      "fee",
+      "fees",
+      "fee structure",
+      "semester fee",
+      "dues",
+      "tuition fee",
+      "fee submission",
+      "fee challan"
+    ],
+    "reply": "For information about the University of Sargodha fee structure, semester dues, and fee challan, please check the official UOS website or contact the relevant department. Fees may vary by program and semester."
+  },
+  {
+    "intent": "admission",
+    "keywords": [
+      "admission",
+      "admissions",
+      "apply",
+      "application",
+      "eligibility",
+      "merit list",
+      "last date",
+      "admission criteria",
+      "required documents"
+    ],
+    "reply": "For UOS admissions, eligibility criteria, application deadlines, and merit lists, please consult the official University of Sargodha admissions portal. Requirements and deadlines can vary by program."
+  },
+  {
+    "intent": "timing",
+    "keywords": [
+      "timing",
+      "timings",
+      "university hours",
+      "office hours",
+      "working hours",
+      "opening time",
+      "closing time",
+      "when does the university open",
+      "when does the university close"
+    ],
+    "reply": "University and department office timings may vary by campus, department, and day. Please confirm the current schedule with your department or the relevant UOS office."
+  },
+  {
+    "intent": "library",
+    "keywords": [
+      "library",
+      "central library",
+      "library timing",
+      "library timings",
+      "borrow books",
+      "book issue",
+      "return books",
+      "library card",
+      "study space"
+    ],
+    "reply": "For UOS library membership, book borrowing, return policies, and opening hours, please contact the university library or check its official information. Keep your student ID available when asking about membership."
+  },
+  {
+    "intent": "hostel",
+    "keywords": [
+      "hostel",
+      "hostels",
+      "hostel fee",
+      "hostel admission",
+      "accommodation",
+      "room allotment",
+      "hostel room",
+      "residence",
+      "mess"
+    ],
+    "reply": "For UOS hostel accommodation, room availability, hostel fees, and allotment procedures, please contact the university hostel administration. Availability and eligibility may depend on university policy."
+  }
+]
